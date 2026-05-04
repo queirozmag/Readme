@@ -16,7 +16,6 @@ The main goal is to contribute as a builder, test infrastructure, and support ec
 - X (Twitter): https://x.com/estrada_crypto8
 - Discord: magnoel.
 - Telegram: @magnoelqueiroz
-- Public Telegram Group: https://t.me/cacadoresdeairdrops
 
 ---
 
